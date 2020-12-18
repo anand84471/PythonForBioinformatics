@@ -79,6 +79,12 @@ print(mitocondria_table)
 # seq1==seq2==>False if both the sequnce are not same
 
 """Mutable Sequnce"""
-#as sequnec
+# *as sequences behaves like string so we can not mutate them or assignment is not allowed
+# ? so we will use mutable object
 seq1=Seq("ATGCTTATATAT")
 mutable_seq=seq1.tomutable()
+mutable_seq[5]=4
+print(mutable_seq)
+mutable_seq.remove("T") # *removing first occurance of T
+mutable_seq.reverse() #* reversing the sequnce
+# *we can further convert it to Seq object
