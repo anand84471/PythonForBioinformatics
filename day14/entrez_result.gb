@@ -1,0 +1,46 @@
+LOCUS       AY851614                 715 bp    DNA     linear   PLN 10-APR-2007
+DEFINITION  Calymmanthium substerile rpl16 gene, intron; chloroplast.
+ACCESSION   AY851614
+VERSION     AY851614.1
+KEYWORDS    .
+SOURCE      chloroplast Calymmanthium substerile
+  ORGANISM  Calymmanthium substerile
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; Caryophyllales; Cactineae; Cactaceae; Cactoideae;
+            Lymanbensonieae; Calymmanthium.
+REFERENCE   1  (bases 1 to 715)
+  AUTHORS   Butterworth,C.A. and Wallace,R.S.
+  TITLE     Molecular Phylogenetics of the Leafy Cactus Genus Pereskia
+            (Cactaceae)
+  JOURNAL   Syst. Bot. 30 (4), 800-808 (2005)
+REFERENCE   2  (bases 1 to 715)
+  AUTHORS   Butterworth,C.A. and Wallace,R.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2004) Desert Botanical Garden, 1201 North Galvin
+            Parkway, Phoenix, AZ 85008, USA
+FEATURES             Location/Qualifiers
+     source          1..715
+                     /organism="Calymmanthium substerile"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:130105"
+     gene            <1..>715
+                     /gene="rpl16"
+     intron          <1..>715
+                     /gene="rpl16"
+ORIGIN      
+        1 cattaaaagg aaggggatgc ggataaaagg aaaggcgaaa gaaagaaaaa aatgaatata
+       61 aatgatatat gattccacta tgtaaggttt ttgaatcata tcataaaaga caatgttata
+      121 aagcatgaat acagattcac acataattat atgatatgaa tttattcata gaaaaaaaaa
+      181 agaagtaaga gcctcaagcc aataaagact aagaaggttg gctcaagaac aaagttcttt
+      241 aagagctcca ttgtagaata gagacctaac cattaatcaa gaagcgatgg gaacgatgga
+      301 atccgtgaat acagaagatt caattgaaaa tgaatcctaa tgattcattg ggaaggatgg
+      361 cggaacgaac cagagaccaa ttcatctatt ctgaaaagta ataaactaat cctataaaac
+      421 tgaaatagat attgaaagag taaatattcg cccgcgaaaa ttcctttttt attagattgc
+      481 tcttatttta ttttagcaat gcaatctaat aaaatatatc tatacaaaaa aataaataca
+      541 aaaaattaat ttataattct attctaatta gaattcaatt tctaaatatt catattcaat
+      601 taaaatttaa attttttcat tcgcgaggag ccggatgaga agaaactctc atgtccggtt
+      661 ctgtaataga gatggaatta agaaaaaacc atcaactata accccaaaag aacca
+//
+

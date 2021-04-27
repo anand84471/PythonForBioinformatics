@@ -1,0 +1,21 @@
+PREDICTED: Ziziphus jujuba cold-regulated 413 plasma membrane...  Ziziphus jujuba common jujube   326968     287    287   50%   1e-72 76.40  946        XM_016034586.2   
+PREDICTED: Carica papaya cold-regulated 413 plasma membrane...    Carica papaya   papaya          3649       268    268   47%   4e-67 76.21  1009       XM_022049453.1   
+PREDICTED: Citrus sinensis cold-regulated 413 plasma membrane...  Citrus sinensis sweet orange    2711       254    254   53%   1e-62 74.71  880        XM_006466626.3   
+PREDICTED: Citrus sinensis cold-regulated 413 plasma membrane...  Citrus sinensis sweet orange    2711       254    254   53%   1e-62 74.71  946        XM_006466625.2   
+PREDICTED: Citrus sinensis cold-regulated 413 plasma membrane...  Citrus sinensis sweet orange    2711       254    254   53%   1e-62 74.71  956        XM_006466624.3   
+PREDICTED: Citrus sinensis cold-regulated 413 plasma membrane...  Citrus sinensis sweet orange    2711       254    254   53%   1e-62 74.71  1014       XM_006466623.3   
+PREDICTED: Citrus sinensis cold-regulated 413 plasma membrane...  Citrus sinensis sweet orange    2711       254    254   53%   1e-62 74.71  978        XM_025094967.1   
+PREDICTED: Citrus clementina cold-regulated 413 plasma membran... Citrus cleme... NA              85681      254    254   53%   1e-62 74.71  868        XM_024180293.1   
+PREDICTED: Citrus clementina cold-regulated 413 plasma membran... Citrus cleme... NA              85681      254    254   53%   1e-62 74.71  893        XM_006425719.2   
+PREDICTED: Citrus clementina cold-regulated 413 plasma membran... Citrus cleme... NA              85681      254    254   53%   1e-62 74.71  881        XM_006425716.2   
+PREDICTED: Citrus clementina cold-regulated 413 plasma membran... Citrus cleme... NA              85681      254    254   53%   1e-62 74.71  952        XM_006425717.2   
+PREDICTED: Pistacia vera cold-regulated 413 plasma membrane...    Pistacia vera   NA              55513      237    237   46%   1e-57 75.10  982        XM_031406607.1   
+PREDICTED: Tripterygium wilfordii cold-regulated 413 plasma...    Tripterygium... NA              458696     237    237   52%   1e-57 74.53  999        XM_038867092.1   
+PREDICTED: Morus notabilis cold-regulated 413 plasma membrane...  Morus notabilis NA              981085     228    228   51%   7e-55 74.18  1020       XM_024170292.1   
+PREDICTED: Camellia sinensis cold-regulated 413 plasma membran... Camellia sin... NA              4442       220    220   51%   1e-52 73.88  910        XM_028202722.1   
+PREDICTED: Hevea brasiliensis cold-regulated 413 plasma membra... Hevea brasil... rubber tree     3981       213    213   27%   2e-50 79.17  1307       XM_021822463.1   
+PREDICTED: Prunus avium cold-regulated 413 plasma membrane...     Prunus avium    sweet cherry    42229      207    207   46%   1e-48 74.23  896        XM_021978417.1   
+PREDICTED: Prunus avium cold-regulated 413 plasma membrane...     Prunus avium    sweet cherry    42229      207    207   46%   1e-48 74.23  894        XM_021953815.1   
+PREDICTED: Hevea brasiliensis cold-regulated 413 plasma membra... Hevea brasil... rubber tree     3981       150    150   18%   2e-31 79.62  1292       XM_021822464.1
+12_13_14_14_15
+12#13#14#14#15
